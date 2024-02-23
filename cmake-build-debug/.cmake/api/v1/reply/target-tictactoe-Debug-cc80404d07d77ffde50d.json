@@ -1,0 +1,1017 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "bin/tictactoe/tictactoe.app/Contents/MacOS/tictactoe"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries",
+			"set_property",
+			"use_cocos2dx_libs_depend",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"cocos2d/cocos/CMakeLists.txt",
+			"cocos2d/external/CMakeLists.txt",
+			"cocos2d/external/bullet/CMakeLists.txt",
+			"cocos2d/cmake/Modules/CocosConfigDepend.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 134,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 141,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 124,
+				"parent" : 3
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 32,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 36,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 40,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 44,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 48,
+				"parent" : 5
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 59,
+				"parent" : 11
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 56,
+				"parent" : 11
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 52,
+				"parent" : 11
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 62,
+				"parent" : 11
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 65,
+				"parent" : 11
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 52,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 61,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 69,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 73,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 56,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 57,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 65,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 77,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 81,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 85,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 89,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 93,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 97,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 101,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 105,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 127,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 130,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 175,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 183,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 192,
+				"parent" : 5
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 131,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 4,
+				"line" : 97,
+				"parent" : 37
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 142,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "COCOS2D_DEBUG=1"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "LWS_WITH_LIBUV"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "USE_FILE32API"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "__APPLE__"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 39,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/Classes"
+				},
+				{
+					"backtrace" : 39,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/cocos/audio/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/cocos"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/extensions"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/cocos/platform"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/cocos/base"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/cocos/editor-support"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/cocos/platform/mac"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/recast/.."
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/tinyxml2/."
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/xxhash/."
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/xxtea/."
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/clipper/."
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/edtaa3func/."
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/ConvertUTF/."
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/poly2tri/.."
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/md5/.."
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/unzip/."
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/Box2D/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/chipmunk/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/freetype2/include/mac/freetype2"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/bullet/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/bullet/include/bullet"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/jpeg/include/mac"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/openssl/include/mac"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/tiff/include/mac"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/uv/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/webp/include/mac"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/websockets/include/mac"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/curl/include/mac"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/png/include/mac"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/glfw3/include/mac"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/zlib/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				1,
+				3,
+				7,
+				8,
+				9,
+				39
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "cocos2d::@b17589fc6237857a1771"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "external::@62470bbe2074d04a1904"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "ext_recast::@49aedbc985f97720d891"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "ext_tinyxml2::@fd6ab661f4ee25a21ef0"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "ext_xxhash::@11e20b8b9139209a045a"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "ext_xxtea::@95546a4b2abc077b0042"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "ext_clipper::@33abc919e86db66c28b8"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "ext_edtaa3func::@f3d42e550923b89477b0"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "ext_convertUTF::@205c2f0e44a3b06b9b59"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "ext_poly2tri::@ce0bfd23a4070be0c5de"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "ext_md5::@82bef7d6fa8c2aa61808"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "ext_unzip::@05a8bf1aba81c1a16e64"
+		}
+	],
+	"id" : "tictactoe::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "lib/libcocos2d.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "lib/libexternal.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/Box2D/prebuilt/mac/libbox2d.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/chipmunk/prebuilt/mac/libchipmunk.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/freetype2/prebuilt/mac/libfreetype.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "lib/libext_recast.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/bullet/prebuilt/mac/libLinearMath.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 12,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/bullet/prebuilt/mac/libBulletDynamics.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/bullet/prebuilt/mac/libBulletCollision.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/bullet/prebuilt/mac/libLinearMath.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 15,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/bullet/prebuilt/mac/libBulletMultiThreaded.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/bullet/prebuilt/mac/libMiniCL.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 17,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/jpeg/prebuilt/mac/libjpeg.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/tiff/prebuilt/mac/libtiff.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 19,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/webp/prebuilt/mac/libwebp.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 20,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/websockets/prebuilt/mac/libwebsockets.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 21,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/openssl/prebuilt/mac/libssl.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/openssl/prebuilt/mac/libcrypto.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/uv/prebuilt/mac/libuv_a.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 24,
+				"fragment" : "lib/libext_tinyxml2.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 25,
+				"fragment" : "lib/libext_xxhash.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "lib/libext_xxtea.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 27,
+				"fragment" : "lib/libext_clipper.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 28,
+				"fragment" : "lib/libext_edtaa3func.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 29,
+				"fragment" : "lib/libext_convertUTF.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 30,
+				"fragment" : "lib/libext_poly2tri.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "lib/libext_md5.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 32,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/curl/prebuilt/mac/libcurl.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 33,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/png/prebuilt/mac/libpng.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 34,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/glfw3/prebuilt/mac/libglfw3.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 35,
+				"fragment" : "/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/external/zlib/prebuilt/mac/libz.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 36,
+				"fragment" : "lib/libext_unzip.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker Cocoa",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker OpenGL",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker ApplicationServices",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker IOKit",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker OpenAL",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker AudioToolbox",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker QuartzCore",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker Foundation",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 38,
+				"fragment" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/usr/lib/libiconv.tbd",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker GameController",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker AppKit",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "tictactoe",
+	"nameOnDisk" : "tictactoe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				4,
+				5,
+				6,
+				38
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1,
+				3,
+				7,
+				8,
+				9,
+				39
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				10,
+				11,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				12,
+				13,
+				14,
+				15,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"path" : "Classes/Views/MainScene.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Classes/Views/MainScene.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Classes/Models/BasePacket.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Classes/Models/BasePacket.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Classes/Models/ConnectPacket.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Classes/AppDelegate.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Classes/Views/SplashScene.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Classes/AppDelegate.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Classes/Views/SplashScene.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "proj.ios_mac/mac/main.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "proj.ios_mac/mac/Prefix.pch",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "proj.ios_mac/mac/Icon.icns",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "proj.ios_mac/mac/Info.plist",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/CloseNormal.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/CloseSelected.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/HelloWorld.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/fonts/Marker Felt.ttf",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/fonts/arial.ttf",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/.gitkeep",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/Achievements.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/Game Title.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/Grid.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/Home Button.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/Main Menu Background.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/O Win.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/O.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/Pause Background.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/Pause Button.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/Pause Window.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/Play Button Outer.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/Play Button.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/Resume Button.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/Retry Button.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/Sound Off.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/Sound On.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/Splash Background.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/X Win.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Resources/res/X.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Classes/Controller/SceneManager.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Classes/Controller/SceneManager.cpp",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}

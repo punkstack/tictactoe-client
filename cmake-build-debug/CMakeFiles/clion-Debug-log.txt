@@ -1,0 +1,12 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/manojbojja/git/cocos2d-x/tictactoe -B /Users/manojbojja/git/cocos2d-x/tictactoe/cmake-build-debug
+-- PROJECT_NAME:tictactoe
+-- PROJECT_SOURCE_DIR:/Users/manojbojja/git/cocos2d-x/tictactoe
+-- COCOS2DX_ROOT_PATH:/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d
+-- CMAKE_MODULE_PATH:/Users/manojbojja/git/cocos2d-x/tictactoe/cocos2d/cmake/Modules/
+-- PROJECT_BINARY_DIR:/Users/manojbojja/git/cocos2d-x/tictactoe/cmake-build-debug
+-- ENGINE_BINARY_PATH:/Users/manojbojja/git/cocos2d-x/tictactoe/cmake-build-debug/engine
+-- CMAKE_GENERATOR: Ninja
+CMake 3.16 target_precompile_headers
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/manojbojja/git/cocos2d-x/tictactoe/cmake-build-debug
